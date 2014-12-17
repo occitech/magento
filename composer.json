@@ -1,0 +1,23 @@
+{
+    "name": "occitech/magento",
+    "description": "Mirror for Magento 1.x",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "support": {
+        "issues": "https://github.com/occitech/magento/issues"
+    },
+    "homepage": "http://www.magentocommerce.com",
+    "keywords": ["magento", "core"],
+    "authors": [
+        {
+            "name": "Occitech",
+            "email": "contact@occitech.fr"
+        }
+    ],
+    "type": "magento-module",
+    "require": {
+        "php": ">=5.3.24"
+    }
+}
