@@ -4561,7 +4561,7 @@ src/var/package/Cm_RedisSession-1.8.0.0.xml var/package/Cm_RedisSession-1.8.0.0.
 src/var/package/Interface_Adminhtml_Default-1.9.0.0.xml var/package/Interface_Adminhtml_Default-1.9.0.0.xml
 src/var/package/Interface_Frontend_Base_Default-1.9.0.0.xml var/package/Interface_Frontend_Base_Default-1.9.0.0.xml
 src/var/package/Interface_Frontend_Default-1.9.0.0.xml var/package/Interface_Frontend_Default-1.9.0.0.xml
-src/var/package/Interface_Frontend_Rwd_Default-1.9.0.0.xml var/package/Interface_Frontend_Rwd_Default-1.9.0.0.xml
+src/var/package/Interface_Frontend_Rwd_Default-1.9.0.1.xml var/package/Interface_Frontend_Rwd_Default-1.9.0.1.xml
 src/var/package/Interface_Install_Default-1.9.0.0.xml var/package/Interface_Install_Default-1.9.0.0.xml
 src/var/package/Lib_Cm-1.8.0.0.xml var/package/Lib_Cm-1.8.0.0.xml
 src/var/package/Lib_Credis-1.8.0.0.xml var/package/Lib_Credis-1.8.0.0.xml
@@ -4578,12 +4578,12 @@ src/var/package/Lib_Phpseclib-1.5.0.0.xml var/package/Lib_Phpseclib-1.5.0.0.xml
 src/var/package/Lib_Varien-1.9.0.0.xml var/package/Lib_Varien-1.9.0.0.xml
 src/var/package/Lib_ZF-1.12.3.0.xml var/package/Lib_ZF-1.12.3.0.xml
 src/var/package/Lib_ZF_Locale-1.12.3.0.xml var/package/Lib_ZF_Locale-1.12.3.0.xml
-src/var/package/Mage_All_Latest-1.9.0.0.xml var/package/Mage_All_Latest-1.9.0.0.xml
-src/var/package/Mage_Centinel-1.8.0.0.xml var/package/Mage_Centinel-1.8.0.0.xml
-src/var/package/Mage_Compiler-1.8.1.0.xml var/package/Mage_Compiler-1.8.1.0.xml
+src/var/package/Mage_All_Latest-1.9.0.1.xml var/package/Mage_All_Latest-1.9.0.1.xml
+src/var/package/Mage_Centinel-1.9.0.1.xml var/package/Mage_Centinel-1.9.0.1.xml
+src/var/package/Mage_Compiler-1.9.0.1.xml var/package/Mage_Compiler-1.9.0.1.xml
 src/var/package/Mage_Core_Adminhtml-1.9.0.0.xml var/package/Mage_Core_Adminhtml-1.9.0.0.xml
-src/var/package/Mage_Core_Modules-1.9.0.0.xml var/package/Mage_Core_Modules-1.9.0.0.xml
-src/var/package/Mage_Downloader-1.9.0.0.xml var/package/Mage_Downloader-1.9.0.0.xml
+src/var/package/Mage_Core_Modules-1.9.0.1.xml var/package/Mage_Core_Modules-1.9.0.1.xml
+src/var/package/Mage_Downloader-1.9.0.1.xml var/package/Mage_Downloader-1.9.0.1.xml
 src/var/package/Mage_Locale_de_DE-1.9.0.0.xml var/package/Mage_Locale_de_DE-1.9.0.0.xml
 src/var/package/Mage_Locale_en_US-1.9.0.0.xml var/package/Mage_Locale_en_US-1.9.0.0.xml
 src/var/package/Mage_Locale_es_ES-1.9.0.0.xml var/package/Mage_Locale_es_ES-1.9.0.0.xml
@@ -4592,4 +4592,4 @@ src/var/package/Mage_Locale_nl_NL-1.9.0.0.xml var/package/Mage_Locale_nl_NL-1.9.
 src/var/package/Mage_Locale_pt_BR-1.9.0.0.xml var/package/Mage_Locale_pt_BR-1.9.0.0.xml
 src/var/package/Mage_Locale_zh_CN-1.9.0.0.xml var/package/Mage_Locale_zh_CN-1.9.0.0.xml
 src/var/package/Magento_Mobile-1.8.0.0.23.2.xml var/package/Magento_Mobile-1.8.0.0.23.2.xml
-src/var/package/Phoenix_Moneybookers-1.3.2.xml var/package/Phoenix_Moneybookers-1.3.2.xml
+src/var/package/Phoenix_Moneybookers-1.3.2.1.xml var/package/Phoenix_Moneybookers-1.3.2.1.xml
